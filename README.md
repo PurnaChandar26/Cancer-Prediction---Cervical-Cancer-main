@@ -18,7 +18,11 @@ The project will follow the following methodology:
 
 ## Conclusion
 
+
+
+
+This project aims to build a machine learning model that can accurately predict the presence or absence of cervical cancer based on the patient's demographic information, medical history, and laboratory test results. The final model will be deployed as a web application to allow users to get a prediction of their risk of cervical cancer. 
+
 ![image](https://github.com/PurnaChandar26/Cancer-Prediction---Cervical-Cancer-main/assets/97793147/16c14188-3dfd-4570-880f-92dfe9dcc4d1)
 
-
-This project aims to build a machine learning model that can accurately predict the presence or absence of cervical cancer based on the patient's demographic information, medical history, and laboratory test results. The final model will be deployed as a web application to allow users to get a prediction of their risk of cervical cancer. The project will follow a rigorous methodology that includes data preprocessing, exploratory data analysis, feature engineering, model selection, model evaluation, and model deployment.   
+The project will follow a rigorous methodology that includes data preprocessing, exploratory data analysis, feature engineering, model selection, model evaluation, and model deployment.   
